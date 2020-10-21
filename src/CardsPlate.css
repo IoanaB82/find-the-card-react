@@ -1,0 +1,12 @@
+.cards-plate {
+    width: auto;
+    
+    display: flex;
+    justify-content: space-around;    
+    box-sizing: border-box;
+    background-color: rgba(45, 160, 168, .2);
+    
+    border: 3px solid white;
+    padding: 40px;
+    
+}
